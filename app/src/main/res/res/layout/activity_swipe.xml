@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/redgradient">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/slideViewPager"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/swipe_image"
+            android:layout_weight="18"></android.support.v4.view.ViewPager>
+
+
+        <LinearLayout
+            android:id="@+id/dotsLayout"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:orientation="horizontal" />
+
+
+    </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btn_prev"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/ic_back"
+            android:visibility="invisible"
+            />
+
+        <Button
+            android:id="@+id/btn_next"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_next" />
+
+
+
+
+
+
+</RelativeLayout>

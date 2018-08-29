@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#353535</color>
+    <color name="colorPrimaryDark">#b3b3b3</color>
+    <color name="colorAccent">#27b5be</color>
+    <color name="accentStart">#ff2d9a59</color>
+    <color name="accentCenter">#ff42959a</color>
+    <color name="accentEnd">#ff23729a</color>
+    <color name="grayStart">#3a3a3a</color>
+    <color name="grayCenter">#c5c5c5</color>
+    <color name="grayEnd">#969696</color>
+    <color name="fadedAccent">#7e42959a</color>
+    <color name="whiteText">#ffffff</color>
+    <color name="yellow">#edda0a</color>
+    <color name="magenta">#ef1654 </color>
+    <color name="transparenttWhite">#cccccc </color>
+
+
+
+</resources>

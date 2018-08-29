@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TakeMyCare</string>
+    <string name="estr_eng">Choose your language</string>
+    <string name="hstr_hindi">अपनी भाषा चुनिए</string>
+    <string name="str_english">English</string>
+    <string name="str_hindi">हिन्दी</string>
+
+</resources>
