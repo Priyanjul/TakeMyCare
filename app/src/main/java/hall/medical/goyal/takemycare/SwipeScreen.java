@@ -22,7 +22,7 @@ public class SwipeScreen extends Activity {
     private int mCurrentPage;
     Typeface regular, bold;
 
-    //change
+    //change hua
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
