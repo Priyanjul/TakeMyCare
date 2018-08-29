@@ -22,6 +22,8 @@ public class SwipeScreen extends Activity {
     private int mCurrentPage;
     Typeface regular, bold;
 
+    //change
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
